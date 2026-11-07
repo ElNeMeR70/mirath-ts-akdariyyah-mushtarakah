@@ -1,0 +1,11 @@
+{
+  "name": "mirath-ts-akdariyyah-mushtarakah",
+  "version": "1.0.0",
+  "description": "Special Fara'id Cases Solver (Al-Akdariyyah, Al-Mushtarakah, Al-Umariyyatan) (معالج المسائل الخاصة: الأكدرية والمشتركة والغراوين)",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "Mahmoud ElNemer",
+  "license": "MIT"
+}
